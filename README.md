@@ -4,6 +4,14 @@ I enjoy working at the intersection of Big Data and AI, where the challenge is t
 
 ## 🚀 Featured Work
 
+### [CityCrimes - Urban Crime Analytics Platform](https://citycrimes.io)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-E53935?style=for-the-badge)](https://citycrimes.io)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanmay-Das/CityPulse)
+
+An end-to-end crime analytics platform covering 3 US cities till now and 20+ years of data. Built a Go/GraphQL backend with spatial ETL pipelines that join millions of crime records to ZIP code boundaries, and a React/MapLibre frontend with interactive heatmaps and drill-down panels.
+
+**Tech Stack:** Go • GraphQL • PostgreSQL • React • TypeScript • MapLibre GL • Vite
+
 ### [FutureFarmNow - Geospatial Data Visualization](https://ffn.cs.ucr.edu/?dataset=farmland&tab=etmap&soilLayer=ph&soilDepth=0-5)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://ffn.cs.ucr.edu/?dataset=farmland&tab=etmap&soilLayer=ph&soilDepth=0-5)
 
