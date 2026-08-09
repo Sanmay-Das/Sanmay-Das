@@ -1,13 +1,3 @@
-# 💫 About Me
-
-I build software end-to-end — backend services, APIs, and the AI/ML systems layered on top. I recently completed my MS in Computer Science at UC Riverside, and bring 3 years of combined experience across industry and research.
-
-Lately I have been working on RAG pipelines, LLM serving infrastructure, and full-stack applications. At UC Riverside I built production data infrastructure for a USDA-funded agricultural research project. Before grad school, I spent 2.5 years in industry shipping features and maintaining cross-platform systems at LTIMindtree.
-
-I am open to software engineering and AI/ML engineering roles.
-📫 sanmay4119@gmail.com • [LinkedIn](https://linkedin.com/in/sanmaydas4119)
-
----
 
 ## 🚀 Featured Work
 
