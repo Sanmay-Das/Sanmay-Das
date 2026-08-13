@@ -1,3 +1,12 @@
+## 📄 Publications
+### Benchmarking Geospatial Foundation Models for Agriculture Applications
+**ACM SIGSPATIAL 2026** 
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.29664-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.29664)
+
+Controlled benchmark evaluating Prithvi, SpectralGPT, and SatMAE on multi-temporal crop segmentation and change detection across four U.S. states. By assigning each train/validation/test split to a separate region, we isolate geographic transfer as the variable under test - and find all three models degrade sharply under regional distribution shift, collapsing on minority crops while aggregate mIoU stays inflated by easy land cover classes.
+
+**Stack:** PyTorch • TerraTorch • Linux • Foundation Models • QGIS • GDAL • MMSegmentation 
 
 ## 🚀 Featured Work
 
